@@ -4,9 +4,11 @@
 
 ## Demo Video
 
-The project demo video is embedded below and can be played directly on the GitHub repository page:
+GitHub repository READMEs do not reliably render repository-local `mp4` files as inline players, so the project page uses an animated preview below. Click the preview to open the full demo video:
 
-docs/statbot_demo.mp4
+[![StatBot demo preview](docs/statbot_demo_preview.gif)](docs/statbot_demo.mp4)
+
+- Full demo video: [docs/statbot_demo.mp4](docs/statbot_demo.mp4)
 
 ## Background
 
