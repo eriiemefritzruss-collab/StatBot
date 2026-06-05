@@ -1,0 +1,49 @@
+order_id,order_date,region,city,channel,category,product,campaign,unit_price,units_sold,revenue,cost,profit,discount_rate,customer_rating,delivery_days,returned
+ORD-0001,2025-01-05,East,Shanghai,Online,Electronics,Wireless Earbuds,New Year,399,32,12768,8120,4648,0.10,4.6,2,0
+ORD-0002,2025-01-08,North,Beijing,Offline,Home,Air Purifier,New Year,1299,11,14289,10120,4169,0.08,4.4,3,0
+ORD-0003,2025-01-12,South,Shenzhen,Online,Office,Mechanical Keyboard,None,469,24,11256,7020,4236,0.05,4.7,2,0
+ORD-0004,2025-01-18,West,Chengdu,Distributor,Electronics,Smart Speaker,New Year,299,40,11960,7080,4880,0.12,4.3,5,1
+ORD-0005,2025-01-24,Central,Wuhan,Online,Home,Rice Cooker,None,359,27,9693,6450,3243,0.07,4.5,3,0
+ORD-0006,2025-02-03,East,Hangzhou,Offline,Fitness,Yoga Mat,Spring Promo,159,55,8745,4230,4515,0.15,4.2,4,0
+ORD-0007,2025-02-07,North,Tianjin,Online,Electronics,Tablet 10 inch,Spring Promo,1799,9,16191,12060,4131,0.09,4.4,2,0
+ORD-0008,2025-02-11,South,Guangzhou,Online,Home,Coffee Machine,Spring Promo,899,15,13485,8760,4725,0.10,4.6,2,0
+ORD-0009,2025-02-19,West,Chongqing,Offline,Office,Monitor 27 inch,None,1199,13,15587,10830,4757,0.06,4.5,4,0
+ORD-0010,2025-02-26,Central,Zhengzhou,Distributor,Fitness,Dumbbell Set,None,429,21,9009,5730,3279,0.05,4.1,6,1
+ORD-0011,2025-03-04,East,Ningbo,Online,Electronics,Smart Watch,March Sale,999,18,17982,12420,5562,0.11,4.7,2,0
+ORD-0012,2025-03-09,North,Beijing,Offline,Home,Vacuum Cleaner,March Sale,1499,10,14990,10750,4240,0.10,4.3,3,0
+ORD-0013,2025-03-15,South,Foshan,Distributor,Office,Office Chair,None,799,16,12784,8240,4544,0.08,4.4,7,0
+ORD-0014,2025-03-22,West,Chengdu,Online,Fitness,Running Shoes,March Sale,539,29,15631,9280,6351,0.12,4.8,2,0
+ORD-0015,2025-03-28,Central,Changsha,Online,Home,Water Purifier,None,1699,8,13592,10160,3432,0.05,4.2,3,0
+ORD-0016,2025-04-02,East,Shanghai,Offline,Electronics,Bluetooth Speaker,Q2 Launch,329,36,11844,7380,4464,0.09,4.5,2,0
+ORD-0017,2025-04-06,North,Shijiazhuang,Online,Home,Humidifier,Q2 Launch,259,41,10619,5940,4679,0.13,4.3,3,1
+ORD-0018,2025-04-13,South,Shenzhen,Online,Office,Laptop Stand,None,189,62,11718,4960,6758,0.07,4.6,2,0
+ORD-0019,2025-04-20,West,Xian,Distributor,Electronics,Projector,Q2 Launch,2399,6,14394,10320,4074,0.10,4.1,6,0
+ORD-0020,2025-04-27,Central,Wuhan,Offline,Fitness,Treadmill,None,2899,4,11596,8430,3166,0.06,4.0,5,0
+ORD-0021,2025-05-03,East,Hangzhou,Online,Electronics,Portable SSD,May Day,699,22,15378,9840,5538,0.12,4.7,1,0
+ORD-0022,2025-05-08,North,Beijing,Distributor,Home,Air Fryer,May Day,499,28,13972,8120,5852,0.09,4.5,4,0
+ORD-0023,2025-05-14,South,Guangzhou,Offline,Office,Printer,None,1399,9,12591,8960,3631,0.05,4.2,5,1
+ORD-0024,2025-05-21,West,Kunming,Online,Fitness,Skipping Rope,May Day,79,120,9480,3180,6300,0.18,4.4,2,0
+ORD-0025,2025-05-29,Central,Hefei,Online,Home,Blender,None,269,44,11836,6460,5376,0.10,4.5,3,0
+ORD-0026,2025-06-04,East,Suzhou,Offline,Electronics,Router WiFi 6,618 Festival,459,31,14229,8640,5589,0.14,4.6,2,0
+ORD-0027,2025-06-10,North,Tianjin,Online,Home,Standing Fan,618 Festival,329,39,12831,7410,5421,0.16,4.3,2,0
+ORD-0028,2025-06-13,South,Shenzhen,Distributor,Office,Webcam HD,618 Festival,219,58,12702,6320,6382,0.15,4.5,5,0
+ORD-0029,2025-06-18,West,Chengdu,Online,Electronics,Gaming Mouse,618 Festival,259,67,17353,8510,8843,0.20,4.8,1,0
+ORD-0030,2025-06-24,Central,Nanchang,Offline,Fitness,Massage Gun,None,699,17,11883,7560,4323,0.08,4.4,4,0
+ORD-0031,2025-07-02,East,Shanghai,Online,Home,Dehumidifier,Summer Sale,999,14,13986,9540,4446,0.10,4.2,2,0
+ORD-0032,2025-07-09,North,Baoding,Distributor,Electronics,Mini PC,Summer Sale,2299,5,11495,8610,2885,0.07,4.1,6,0
+ORD-0033,2025-07-15,South,Dongguan,Offline,Office,Desk Lamp,None,129,83,10707,4380,6327,0.12,4.6,3,0
+ORD-0034,2025-07-21,West,Chongqing,Online,Fitness,Exercise Bike,Summer Sale,1899,7,13293,9450,3843,0.09,4.3,3,1
+ORD-0035,2025-07-27,Central,Wuhan,Online,Electronics,Action Camera,None,1499,8,11992,8960,3032,0.06,4.2,2,0
+ORD-0036,2025-08-05,East,Nanjing,Distributor,Home,Induction Cooker,Back to School,399,33,13167,7920,5247,0.11,4.4,5,0
+ORD-0037,2025-08-11,North,Beijing,Online,Office,Noise Cancelling Headset,Back to School,899,19,17081,11400,5681,0.10,4.7,2,0
+ORD-0038,2025-08-16,South,Guangzhou,Offline,Electronics,Power Bank,Back to School,169,74,12506,5920,6586,0.17,4.5,3,0
+ORD-0039,2025-08-22,West,Lanzhou,Distributor,Fitness,Pull-up Bar,None,249,38,9462,5510,3952,0.08,4.1,7,1
+ORD-0040,2025-08-30,Central,Luoyang,Online,Home,Electric Kettle,None,129,96,12384,5280,7104,0.14,4.6,2,0
+ORD-0041,2025-09-03,East,Shanghai,Offline,Office,Portable Monitor,Autumn Promo,1599,9,14391,10440,3951,0.09,4.3,3,0
+ORD-0042,2025-09-09,North,Tangshan,Online,Electronics,Smart Doorbell,Autumn Promo,799,16,12784,8360,4424,0.11,4.4,2,0
+ORD-0043,2025-09-14,South,Shenzhen,Distributor,Home,Robot Vacuum,Autumn Promo,2199,6,13194,9480,3714,0.10,4.2,6,0
+ORD-0044,2025-09-20,West,Chengdu,Online,Fitness,Resistance Bands,None,99,105,10395,3780,6615,0.16,4.7,1,0
+ORD-0045,2025-09-27,Central,Changsha,Offline,Office,Ergonomic Mouse,None,199,52,10348,4940,5408,0.12,4.5,3,0
+ORD-0046,2025-10-06,East,Hangzhou,Online,Electronics,Drone Entry,National Day,2699,4,10796,8240,2556,0.08,4.1,2,0
+ORD-0047,2025-10-12,North,Beijing,Offline,Home,Microwave Oven,National Day,799,18,14382,9720,4662,0.10,4.3,4,0
+ORD-0048,2025-10-19,South,Zhuhai,Online,Fitness,Smart Scale,National Day,199,61,12139,5490,6649,0.15,4.6,2,1

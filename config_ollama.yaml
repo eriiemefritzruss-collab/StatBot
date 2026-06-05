@@ -1,0 +1,23 @@
+#================================================================================================
+#                                       Config of the LLMs
+#================================================================================================
+conv_model : "gpt-oss" # The model you deployed. We highly recommned using the advanced model.
+programmer_model : "gpt-oss"
+inspector_model : "gpt-oss"
+api_key : "ollama" # The API Key of ollama.
+base_url_conv_model : 'http://localhost:11434/v1' # The base url of ollama
+base_url_programmer : 'http://localhost:11434/v1'
+base_url_inspector : 'http://localhost:11434/v1'
+
+
+#================================================================================================
+#                                       Config of the system
+#================================================================================================
+project_cache_path : "cache/conv_cache/" # local cache path
+max_attempts : 5 # The max attempts of self-correcting
+max_exe_time: 18000 # max time for the execution
+load_chat: False # whether to load the dialogue from the local cache
+chat_history_path: # The path of the chat history, effective if load_chat is True.
+
+#knowledge integration
+retrieval : False # whether to start a knowledge retrieval. If you don't create your knowledge base, you should set it to False

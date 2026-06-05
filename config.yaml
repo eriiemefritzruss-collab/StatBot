@@ -1,0 +1,29 @@
+#================================================================================================
+#                                       Config of the LLMs
+#================================================================================================
+conv_model : "qwen-max" # the conversation model
+programmer_model : "qwen-max" # the programming model
+inspector_model : "qwen-max" # the inspector model
+api_key : "${OPENAI_API_KEY}" # Read API key from environment variable.
+base_url_conv_model : 'https://dashscope.aliyuncs.com/compatible-mode/v1'
+base_url_programmer : 'https://dashscope.aliyuncs.com/compatible-mode/v1'
+base_url_inspector : 'https://dashscope.aliyuncs.com/compatible-mode/v1'
+
+
+#================================================================================================
+#                                       Config of the system
+#================================================================================================
+project_cache_path : "cache/conv_cache/" # local cache path
+max_attempts : 5 # The max attempts of self-correcting
+max_exe_time: 18000 # max time for the execution
+load_chat: False # whether to load the dialogue from the local cache
+chat_history_path: "" # The path of the chat history, effective if load_chat is True.
+analysis_profile: "statistics" # statistics mode turns statbot into a statistics-first assistant.
+statistical_planning: True # generate a statistical analysis plan before code writing.
+server_name: "127.0.0.1"
+server_port: 8000
+share: False
+inbrowser: False
+
+#knowledge integration
+retrieval : False # whether to start a knowledge retrieval. If you don't create your knowledge base, you should set it to False
