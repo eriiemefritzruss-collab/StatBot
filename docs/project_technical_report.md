@@ -444,11 +444,10 @@ User Query / Uploaded Data
 
 本次针对 `StatBot` 的改造可以概括为：
 
-1. 将项目从 `LAMBDA` 全量重命名为 `StatBot`；
-2. 引入会话记忆模块 `SessionState`；
-3. 引入统计工具注册表 `builtin_skills.py`；
-4. 扩展描述统计、假设检验、回归、可视化等常见方法；
-5. 修复上传无反馈、前端空转不报错等问题；
-6. 修复 `Edit Code` 串会话问题；
-7. 为 `Submit` 和 `Generate Report` 增加本地降级路径；
-8. 增加样例数据 `ecommerce_demo.csv` 以支持演示与案例展示。
+1. 引入会话记忆模块 `SessionState`；
+2. 引入统计工具注册表 `builtin_skills.py`；
+3. 扩展描述统计、假设检验、回归、可视化等常见方法；
+4. 修复上传无反馈、前端空转不报错等问题；
+5. 修复 `Edit Code` 串会话问题；
+6. 为 `Submit` 和 `Generate Report` 增加本地降级路径；
+7. 增加样例数据 `ecommerce_demo.csv` 以支持演示与案例展示。
