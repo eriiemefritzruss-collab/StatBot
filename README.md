@@ -1,5 +1,7 @@
 # StatBot
 
+**English** | [简体中文](README.zh-CN.md)
+
 `StatBot` is a statistics-first data analysis agent built for the course project of *Introduction to Artificial Intelligence*. It is developed on top of the original `LAMBDA` project, a large-model-based data agent designed for natural-language-driven data analysis and code execution.
 
 ## Demo Video
